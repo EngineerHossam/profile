@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Hossam Abdellatif</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h3 {
+            margin-bottom: 10px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .contact-info {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .job-title {
+            font-weight: bold;
+            color: #555;
+        }
+        .company {
+            font-weight: bold;
+            color: #000;
+        }
+        .dates {
+            color: #888;
+            font-style: italic;
+        }
+        .bullet-points {
+            margin-left: 20px;
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hossam Abdellatif</h1>
+    <h2>Project Contracts Manager | Civil Engineering Expert</h2>
+
+    <div class="contact-info">
+        <p><strong>Phone:</strong> +49 151 5745 2180</p>
+        <p><strong>Email:</strong> ingr.abdellatif.hossam@gmail.com</p>
+        <p><strong>Location:</strong> Stuttgart, Germany</p>
+    </div>
+
+    <!-- Profile Section -->
+    <div class="section">
+        <h3>Profile</h3>
+        <p>Experienced project and contract manager with over 20 years of international expertise in civil engineering. Skilled in managing complex construction projects, including smart cities, renewable energy projects, and prefabricated steel buildings. Proven track record of overseeing teams, delivering projects on time, and ensuring compliance with international standards and contracts. Fluent in English, German, and Arabic, with extensive knowledge of construction law and contract management principles.</p>
+    </div>
+
+    <!-- Work Experience Section -->
+    <div class="section">
+        <h3>Work Experience</h3>
+
+        <div>
+            <p class="job-title">Freelance Project & Contract Manager</p>
+            <p class="company">Various International Clients</p>
+            <p class="dates">March 2024 – Present</p>
+            <ul class="bullet-points">
+                <li>Leading project and contract management for major construction projects, including smart city infrastructure in Saudi Arabia.</li>
+                <li>Consulting on civil works management, material supply chains, and contractor coordination.</li>
+            </ul>
+        </div>
+
+        <div>
+            <p class="job-title">Project & Contract Manager</p>
+            <p class="company">AQC Constructions LLC, UAE</p>
+            <p class="dates">March 2021 – March 2024</p>
+            <ul class="bullet-points">
+                <li>Managed contracts and project delivery for multi-million-dollar construction projects.</li>
+                <li>Ensured contract compliance, on-time delivery, and effective team management.</li>
+            </ul>
+        </div>
+
+        <div>
+            <p class="job-title">Senior Contracts Manager</p>
+            <p class="company">XYZ Engineering Consultants, Qatar</p>
+            <p class="dates">January 2018 – February 2021</p>
+            <ul class="bullet-points">
+                <li>Directed contract administration and risk management for several major projects in the Middle East.</li>
+                <li>Negotiated and managed key contracts, ensuring adherence to international construction standards.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Education Section -->
+    <div class="section">
+        <h3>Education</h3>
+
+        <p><strong>Master of International Construction: Practice and Law</strong></p>
+        <p class="company">University of Stuttgart, Germany</p>
+        <p class="dates">2018</p>
+
+        <p><strong>Bachelor of Civil Engineering</strong></p>
+        <p class="company">Ain-Shams University, Egypt</p>
+        <p class="dates">2000</p>
+    </div>
+
+    <!-- Skills Section -->
+    <div class="section">
+        <h3>Skills</h3>
+        <ul class="bullet-points">
+            <li>Project Management</li>
+            <li>Contract Administration</li>
+            <li>Construction Law</li>
+            <li>Risk Management</li>
+            <li>Team Leadership</li>
+            <li>Languages: English, German, Arabic</li>
+        </ul>
+    </div>
+
+    <!-- Certifications Section -->
+    <div class="section">
+        <h3>Certifications</h3>
+        <ul class="bullet-points">
+            <li>PMP (Project Management Professional)</li>
+            <li>Certified FIDIC Contracts Manager</li>
+        </ul>
+    </div>
+
+    <!-- Languages Section -->
+    <div class="section">
+        <h3>Languages</h3>
+        <ul class="bullet-points">
+            <li>English (Fluent)</li>
+            <li>German (Fluent)</li>
+            <li>Arabic (Native)</li>
+        </ul>
+    </div>
+
+</body>
+</html>
